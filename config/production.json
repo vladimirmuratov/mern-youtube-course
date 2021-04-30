@@ -1,6 +1,0 @@
-{
-  "port": 80,
-  "jwtSecret": "vladimir secret string",
-  "mongoUri": "mongodb+srv://vladimirmuratov:7736025Aa@cluster0.zrh8f.mongodb.net/app?retryWrites=true&w=majority",
-  "baseUrl": "https://mern-youtube-course-vladimirmuratov.vercel.app"
-}
